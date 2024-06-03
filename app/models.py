@@ -4,7 +4,7 @@ POKENEAS = [
         "nombre": "Electronea",
         "altura": "1.5m",
         "habilidad": "Electro Shock",
-        "imagen": "http://localhost:8000/media/pokeneas/electronea.webp",
+        "imagen": "https://storage.googleapis.com/pasgomez-pokeneas-images/1.png",
         "frase": "La electricidad siempre encuentra su camino."
     },
     {
@@ -12,7 +12,7 @@ POKENEAS = [
         "nombre": "Aquanea",
         "altura": "1.2m",
         "habilidad": "Water Splash",
-        "imagen": "http://localhost:8000/media/pokeneas/aquanea.webp",
+        "imagen": "https://storage.googleapis.com/pasgomez-pokeneas-images/2.png",
         "frase": "Fluye como el agua, se adaptable."
     },
     {
@@ -20,7 +20,7 @@ POKENEAS = [
         "nombre": "Pyronea",
         "altura": "1.8m",
         "habilidad": "Flame Burst",
-        "imagen": "http://localhost:8000/media/pokeneas/pyronea.webp",
+        "imagen": "https://storage.googleapis.com/pasgomez-pokeneas-images/3.png",
         "frase": "El fuego interno no puede ser apagado."
     },
     {
@@ -28,7 +28,7 @@ POKENEAS = [
         "nombre": "Terranea",
         "altura": "1.6m",
         "habilidad": "Earthquake",
-        "imagen": "http://localhost:8000/media/pokeneas/terranea.webp",
+        "imagen": "https://storage.googleapis.com/pasgomez-pokeneas-images/4.png",
         "frase": "La tierra bajo tus pies es tu mayor aliada."
     },
     {
@@ -36,7 +36,7 @@ POKENEAS = [
         "nombre": "Windnea",
         "altura": "1.4m",
         "habilidad": "Tornado Spin",
-        "imagen": "http://localhost:8000/media/pokeneas/windnea.webp",
+        "imagen": "https://storage.googleapis.com/pasgomez-pokeneas-images/5.png",
         "frase": "El viento sopla donde quiere, sigue su ejemplo."
     },
     {
@@ -44,7 +44,7 @@ POKENEAS = [
         "nombre": "Lunanea",
         "altura": "1.3m",
         "habilidad": "Moonlight Beam",
-        "imagen": "http://localhost:8000/media/pokeneas/lunanea.webp",
+        "imagen": "https://storage.googleapis.com/pasgomez-pokeneas-images/6.png",
         "frase": "La luz de la luna revela lo oculto en la oscuridad."
     },
     {
@@ -52,7 +52,7 @@ POKENEAS = [
         "nombre": "Solarnea",
         "altura": "1.7m",
         "habilidad": "Solar Flare",
-        "imagen": "http://localhost:8000/media/pokeneas/solarnea.webp",
+        "imagen": "https://storage.googleapis.com/pasgomez-pokeneas-images/7.png",
         "frase": "El poder del sol reside en todos nosotros."
     },
     {
@@ -60,7 +60,7 @@ POKENEAS = [
         "nombre": "Floragea",
         "altura": "1.1m",
         "habilidad": "Petal Dance",
-        "imagen": "http://localhost:8000/media/pokeneas/floragea.webp",
+        "imagen": "https://storage.googleapis.com/pasgomez-pokeneas-images/8.png",
         "frase": "La belleza de una flor está en su fragilidad."
     },
     {
@@ -68,7 +68,7 @@ POKENEAS = [
         "nombre": "Frostnea",
         "altura": "1.3m",
         "habilidad": "Ice Shard",
-        "imagen": "http://localhost:8000/media/pokeneas/frostnea.webp",
+        "imagen": "https://storage.googleapis.com/pasgomez-pokeneas-images/9.png",
         "frase": "El hielo preserva lo que el tiempo trata de destruir."
     },
     {
@@ -76,7 +76,7 @@ POKENEAS = [
         "nombre": "Shadownea",
         "altura": "1.5m",
         "habilidad": "Shadow Sneak",
-        "imagen": "http://localhost:8000/media/pokeneas/shadownea.webp",
+        "imagen": "https://storage.googleapis.com/pasgomez-pokeneas-images/10.png",
         "frase": "En las sombras, se revela la verdadera naturaleza."
     }
 ]
