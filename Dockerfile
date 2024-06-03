@@ -1,10 +1,16 @@
-FROM python:3.8-slim
+FROM python:3.8
 
-WORKDIR /app
+# Create app directory
+WORKDIR /usr/src/app
 
-COPY requirements.txt requirements.txt
-RUN pip install -r requirements.txt
-
+# Copy the Flask app source to the working directory
 COPY . .
 
+# Install Flask
+RUN pip install -r requirements.txt
+
+# Expose the required port
+EXPOSE 8080
+
+# Specify the command to run the Flask app
 CMD ["python", "run.py"]
